@@ -28,7 +28,6 @@ const Header = () => {
           </button>
         </nav>
       </div>
-      Header
     </div>
   );
 };
