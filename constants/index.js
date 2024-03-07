@@ -2,27 +2,27 @@ export const headerListItems = [
   {
     _id: '101',
     title: 'HOME',
-    Link: '/',
+    link: '/',
   },
   {
     _id: '102',
     title: 'SERVICES',
-    Link: '/services',
+    link: '/services',
   },
   {
     _id: '103',
     title: 'ABOUT',
-    Link: '/about',
+    link: '/about',
   },
   {
     _id: '104',
     title: 'CONTACT',
-    Link: '/contact',
+    link: '/contact',
   },
   {
     _id: '105',
     title: 'DIRECTOR',
-    Link: '/director',
+    link: '/director',
   },
 ];
 
